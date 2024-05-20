@@ -15,3 +15,5 @@
 [horne-ryan/vs-code-new-dialog.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-new-dialog.png) | Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [horne-ryan/vs-code-first-readme.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-first-readme.png) | Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [horne-ryan/vs-code-edit-in-visual-mode.png?raw=true](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-edit-in-visual-mode.png?raw=true)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+[horne-ryan/vs-code-edit-in-visual-mode-window.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-edit-in-visual-mode-window.png)
+[horne-ryan/vs-code-push-step-1.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-push-step-1.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
