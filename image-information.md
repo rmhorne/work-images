@@ -11,4 +11,3 @@
 | horne-ryan/vs-code-quarto-version-control-repository-upload.png | Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 | [horne-ryan/vs-code-new-file-button.png](vs-code-new-file-button.png) | Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 | [horne-ryan/vs-code-github-new-repo.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-github-new-repo.png) | Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
-[horne-ryan/vs-code-new-file-button.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-new-file-button.png) | Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
