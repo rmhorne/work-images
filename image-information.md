@@ -19,3 +19,4 @@
 [horne-ryan/vs-code-push-step-1.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-push-step-1.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [horne-ryan/vs-code-push-step-2.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-push-step-2.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [horne-ryan/vs-code-push-step-3.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-push-step-3.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+[horne-ryan/vs-code-push-step-4.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-push-step-4.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
