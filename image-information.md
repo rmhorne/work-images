@@ -23,3 +23,4 @@
 [horne-ryan/vs-code-index-visual-mode.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-index-visual-mode.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [horne-ryan/vs-code-preview-button.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-preview-button.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [horne-ryan/vs-code-preview.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-preview.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+[horne-ryan/vs-code-yaml-update.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-yaml-update.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
