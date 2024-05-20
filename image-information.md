@@ -25,3 +25,6 @@
 [horne-ryan/vs-code-preview.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-preview.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [horne-ryan/vs-code-yaml-update.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-yaml-update.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [horne-ryan/vs-code-zotero-integration.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-zotero-integration.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+[horne-ryan/vs-code-zotero-source-done.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-zotero-source-done.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+[horne-ryan/vs-code-select-code-cell.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-select-code-cell.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+[horne-ryan/vs-code-python-insert.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-python-insert.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
