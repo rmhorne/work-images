@@ -8,3 +8,4 @@
 | horne-ryan/vs-code-quarto-version-control.png | Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 | horne-ryan/vs-code-quarto-version-control-repository-type.png | Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 | horne-ryan/vs-code-quarto-version-control-repository-options.png | Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+| horne-ryan/vs-code-quarto-version-control-repository-upload.png | Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
