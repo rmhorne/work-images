@@ -31,3 +31,4 @@
 [horne-ryan/zotero-right-click.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/zotero-right-click.png) | Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [horne-ryan/zotero-export-box.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/zotero-export-box.png) | Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [horne-ryan/vs-code-bib-file.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-bib-file.png) | Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+[horne-ryan/vs-code-modified-bibliography.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-modified-bibliography.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
