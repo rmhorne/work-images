@@ -34,4 +34,4 @@
 [horne-ryan/vs-code-modified-bibliography.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-modified-bibliography.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [horne-ryan/vc-code-python-extension-aplsh.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vc-code-python-extension-aplsh.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [horne-ryan/vc-code-python-select-interpreter.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vc-code-python-select-interpreter.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
-
+[horne-ryan/vc-code-python-select-interpreter-choices.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vc-code-python-select-interpreter-choices.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
