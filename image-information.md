@@ -28,3 +28,6 @@
 [horne-ryan/vs-code-zotero-source-done.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-zotero-source-done.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [horne-ryan/vs-code-select-code-cell.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-select-code-cell.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [horne-ryan/vs-code-python-insert.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-python-insert.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+[horne-ryan/zotero-right-click.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/zotero-right-click.png) | Ryan Horne | [CC BY-SA]
+[horne-ryan/zotero-export-box.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/zotero-export-box.png) | Ryan Horne | [CC BY-SA]
+[horne-ryan/vs-code-bib-file.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vs-code-bib-file.png) | Ryan Horne | [CC BY-SA]
