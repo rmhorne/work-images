@@ -36,3 +36,5 @@
 [horne-ryan/vc-code-python-select-interpreter.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vc-code-python-select-interpreter.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [horne-ryan/vc-code-python-select-interpreter-choices.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/vc-code-python-select-interpreter-choices.png)| Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [better-bibtex/better-bibtex-webpage.png](https://github.com/rmhorne/work-images/blob/main/images/better-bibtex/better-bibtex-webpage.png) | Emiliano Heyns | [MIT License]([https://creativecommons.org/licenses/by-sa/4.0/](https://github.com/retorquere/zotero-better-bibtex#MIT-1-ov-file))
+[creative-commons/cc-by-sa.svg](https://github.com/rmhorne/work-images/blob/main/images/creative-commons/cc-by-sa.svg) | Creative Commons | [CC Trademark Policy](https://creativecommons.org/policies/#trademark)
+
