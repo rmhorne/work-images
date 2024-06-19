@@ -42,3 +42,5 @@
 [beveridgeNetworkThrones2016/thrones.png](https://github.com/rmhorne/work-images/blob/main/images/beveridgeNetworkThrones2016/thrones.png) | [Figure #2 in Beveridge, Andrew, and Jie Shan. “Network of Thrones.” Math Horizons 23, no. 4 (2016): 18–22](https://www.tandfonline.com/doi/pdf/10.4169/mathhorizons.23.4.18) |  © Beveridge, Andrew, and Jie Shan; unknown license
 [better-bibtex/better-bibtex-install-screen.png](https://github.com/rmhorne/work-images/blob/main/images/better-bibtex/better-bibtex-install-screen.png) | Emiliano Heyns | [MIT License]([https://creativecommons.org/licenses/by-sa/4.0/](https://github.com/retorquere/zotero-better-bibtex#MIT-1-ov-file))
 [horne-ryan/civ-late-game.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/civ-late-game.png) | Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+[ign/forky-asks-a-question-button-1573522892927.jpg](https://github.com/rmhorne/work-images/blob/main/images/ign/forky-asks-a-question-button-1573522892927.jpg) | Disney (?) | [Fair Use](https://www.copyright.gov/help/faq/faq-fairuse.html)
+
