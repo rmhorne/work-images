@@ -44,3 +44,5 @@
 [horne-ryan/civ-late-game.png](https://github.com/rmhorne/work-images/blob/main/images/horne-ryan/civ-late-game.png) | Ryan Horne | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 [ign/forky-asks-a-question-button-1573522892927.jpg](https://github.com/rmhorne/work-images/blob/main/images/ign/forky-asks-a-question-button-1573522892927.jpg) | Disney (?) | [Fair Use](https://www.copyright.gov/help/faq/faq-fairuse.html)
 [misc/walter-sobchak.jpg](https://github.com/rmhorne/work-images/blob/main/images/misc/walter-sobchak.jpg) | Working Title Films (?) | [Fair Use](https://www.copyright.gov/help/faq/faq-fairuse.html)
+[HBO/Game-of-Thrones-Infographic.jpg](https://github.com/rmhorne/work-images/blob/main/images/HBO/Game-of-Thrones-Infographic.jpg) | HBO | [Fair Use](https://www.copyright.gov/help/faq/faq-fairuse.html)
+
