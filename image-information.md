@@ -47,3 +47,4 @@
 [HBO/Game-of-Thrones-Infographic.jpg](https://github.com/rmhorne/work-images/blob/main/images/HBO/Game-of-Thrones-Infographic.jpg) | HBO | [Fair Use](https://www.copyright.gov/help/faq/faq-fairuse.html)
 [us-gov/G70Jun.jpg](https://github.com/rmhorne/work-images/blob/main/images/us-gov/G70Jun.jpg) | US Government | [Public Domain](https://www.usa.gov/government-copyright)
 [misc/AdobeStock_162765779_45-scaled.png](https://github.com/rmhorne/work-images/blob/main/images/misc/AdobeStock_162765779_45-scaled.png) | Adobe Stock (?) | [Fair Use](https://www.copyright.gov/help/faq/faq-fairuse.html)
+[us-gov/lemmings.png](https://github.com/rmhorne/work-images/blob/main/images/us-gov/lemmings.png) | [Alaska State Government](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=56) | [Fair Use](https://www.copyright.gov/help/faq/faq-fairuse.html)
